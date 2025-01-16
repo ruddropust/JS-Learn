@@ -1,0 +1,1 @@
+console.log('video2.js');
