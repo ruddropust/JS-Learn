@@ -40,7 +40,7 @@ myArray.shift()
 // console.log(myArray.indexOf(15)); // -1
 // console.log(myArray.lastIndexOf(5)); // 5
 
-// console.log(`type of myArray is ${typeof myArray}`); // object
+console.log(`type of myArray is ${typeof myArray}`); // object
 // const newArray = myArray.join();
 // console.log(`my array: ${myArray}`); // 99,1,2,3,4,5,6,7,8,9
 // console.log(`new array: ${newArray}`); // 99,1,2,3,4,5,6,7,8,9
