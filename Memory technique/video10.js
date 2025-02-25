@@ -11,8 +11,8 @@ let anotherName = myYoutubeName;
 
 anotherName = "ruddro youtube channel";
 
-// console.log(myYoutubeName);
-// console.log(anotherName);
+console.log(myYoutubeName);
+console.log(anotherName);
 
 let user = {
     name: "ruddro",
