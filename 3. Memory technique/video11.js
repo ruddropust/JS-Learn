@@ -1,9 +1,9 @@
-const name="ruddro"
+const names="ruddro"
 const repoCount=100
 
-console.log(name+repoCount+"Value") //ruddro100Value
+console.log(names+repoCount+"Value") //ruddro100Value
 
-console.log(`my name is ${name} and my git hub repo is ${repoCount}`); //ruddro100
+console.log(`my name is ${names} and my git hub repo is ${repoCount}`); //ruddro100
 
 const gameName = new String("pubg");
 

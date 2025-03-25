@@ -9,7 +9,7 @@ password = "1234567"
 accountCity = "Chittagong"
 
 console.log(account_id, email, password, accountCity);
-console.table([ account_id, email, password, accountCity ]);
+console.table([ account_id, email, password, accountCity ]);  //table format
 //console.table([ account_id, email, password, accountCity,account_State ]);
 
 /*

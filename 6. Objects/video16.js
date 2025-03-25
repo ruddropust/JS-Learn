@@ -1,5 +1,6 @@
 //singleton
-// 
+// Object.create
+// Object.assign
 
 //object literals
 const mySum = Symbol("key1")
@@ -14,6 +15,7 @@ const JsUser = {
     isLoggedin: false,
     lastLoginDays: ["Monday","Saturday"]
 }
+console.log(JsUser["full name"]);
 
 // console.log(JsUser.age)
 // console.log(JsUser["age"])
@@ -55,10 +57,12 @@ JsUser.greetingTwo = function()
     console.log(`hello JS user ${JsUser["full name"]}`);
     
 }
-console.log(JsUser.greeting());
-console.log(JsUser.greeting);
+// console.log(JsUser.greeting());
+// console.log(JsUser.greeting);
+
+// console.log(JsUser.greetingTwo());
+// console.log(JsUser);
+
 
 console.log(JsUser.greetingTwo());
-
-
-
+console.log(JsUser.greetingTwo);

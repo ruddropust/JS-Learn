@@ -32,28 +32,28 @@
 
 
 //+++++++++++++  MATH  +++++++++++++++++
-// console.log(Math); // Math object
-// console.log(Math.PI); // 3.141592653589793
-// console.log(Math.E); // 2.718281828459045
-// console.log(Math.LN2); // 0.6931471805599453    
-// console.log(Math.abs(-4)); // 2.302585092994046
-// console.log(Math.round(4.7)); // 5
-// console.log(Math.ceil(4.4)); // 5
-// console.log(Math.floor(4.7)); // 4
-// console.log(Math.trunc(4.7)); // 4
-// console.log(Math.trunc(-4.7)); // -4
-// console.log(Math.pow(2, 3)); // 8
-// console.log(Math.sqrt(9)); // 3
-// console.log(Math.cbrt(8)); // 2
-// console.log(Math.max(1, 2, 3, 4, 5)); // 5
-// console.log(Math.min(1, 2, 3, 4, 5)); // 1
-// console.log(Math.random()); // 0.123456789
+console.log(Math); // Math object
+console.log(Math.PI); // 3.141592653589793
+console.log(Math.E); // 2.718281828459045
+console.log(Math.LN2); // 0.6931471805599453    
+console.log(Math.abs(-4)); // 2.302585092994046
+console.log(Math.round(4.7)); // 5
+console.log(Math.ceil(4.4)); // 5
+console.log(Math.floor(4.7)); // 4
+console.log(Math.trunc(4.7)); // 4
+console.log(Math.trunc(-4.7)); // -4
+console.log(Math.pow(2, 3)); // 8
+console.log(Math.sqrt(9)); // 3
+console.log(Math.cbrt(8)); // 2
+console.log(Math.max(1, 2, 3, 4, 5)); // 5
+console.log(Math.min(1, 2, 3, 4, 5)); // 1
+console.log(Math.random()); // 0.123456789
 
-// //take integr on given range
-// console.log((Math.random() * 10)+1); //  1.23456789
-// console.log(Math.floor(Math.random() * 10)); // 1
-// console.log(Math.max(10,5,6,9,55,25,36,40)); // 55
-// console.log(Math.min(10,5,6,9,55,25,36,40)); // 5
+//take integr on given range
+console.log((Math.random() * 10)+1); //  1.23456789
+console.log(Math.floor(Math.random() * 10)); // 1
+console.log(Math.max(10,5,6,9,55,25,36,40)); // 55
+console.log(Math.min(10,5,6,9,55,25,36,40)); // 5
 
 const mx=20;
 const mn=10;

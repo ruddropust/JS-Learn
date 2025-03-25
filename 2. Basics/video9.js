@@ -35,9 +35,9 @@ const id2 = Symbol(100);
 
 const fruits = ['Apple', 'Banana', 'Mango', 'Orange', 'Pineapple'];
 
-// for(const fruit of fruits){
-//     console.log(fruit);
-// }
+for(const fruit of fruits){
+    console.log(fruit);
+}
 
 let person = {
     name: 'John Doe',
